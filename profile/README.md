@@ -1,1 +1,9 @@
-Welcome to Lackluster Labs! We're a small group of highly caffeinated, slightly chaotic, and sarcastically self-deprecating programmers who thrive on turning wild ideas into VR experiences. Some might call us a crackhead team, but hey, chaos is just another form of creativity, right? Whether you're here for code, chaos, or to witness the struggles of a sad programmer at 3 AM, you've found the right place.
+<p align="center">
+  <img src="https://www.lumoravr.com/logo-w-text.svg" alt="LumoraVR Logo" width="300">
+</p>
+
+**Welcome to LumoraVR**
+
+LumoraVR is a next-generation social VR platform designed to seamlessly integrate creation, collaboration, and interaction. Our goal is to provide an immersive, persistent virtual world where users can build, share, and engage with others in real time.
+
+Whether you're here for development, innovation, or to explore new possibilities in virtual reality, LumoraVR offers the tools and environment to bring your ideas to life.
